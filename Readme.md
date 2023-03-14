@@ -1,0 +1,1 @@
+Esse projeto é um jogo onde ao clicar na imagem, automaticamente irá trocar para uma outra imagem totalmente aleatória
