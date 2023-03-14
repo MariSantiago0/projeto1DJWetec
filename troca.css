@@ -1,0 +1,13 @@
+.bodyContent{
+  text-align:center;
+}
+
+.text{
+  font-family: Garamond, serif;
+  font-size: 36px;
+}
+ .img{
+  height:450px;
+  width:450px;
+  object-fit:contain;
+ }
